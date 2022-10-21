@@ -136,3 +136,5 @@ func SendMailWithCSVAttachment() error {
 	fmt.Printf("Successfully sent email with csv attachment!")
 	return nil
 }
+
+//TODO: add generic file function
